@@ -1,4 +1,4 @@
-cat > README.md <<EOF
+
 # Office Transactions Management System
 
 A simple web application to manage daily office cash transactions including credit and debit entries, with a running balance calculation. Built with Python Flask for the backend and HTML/CSS for the frontend.
