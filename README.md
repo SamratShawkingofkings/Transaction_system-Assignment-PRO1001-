@@ -67,7 +67,7 @@ A simple web application to manage daily office cash transactions including cred
 ## Project Structure
 
 \`\`\`
-office-transactions/
+Assignment/
 │
 ├── app.py                 # Main Flask application file
 ├── templates/
